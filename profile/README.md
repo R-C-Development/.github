@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We're a team of people working to make websites and Discord bots for the EchoRP GTA V roleplay server.
+
 <!--
 
 **Here are some ideas to get you started:**
